@@ -1,4 +1,5 @@
-### Hi there 👋, Mohammed Iftekhar
+### HELLO, 
+### I'm Mohammed Iftekhar
 #### Student
 ![Student](https://th.bing.com/th/id/Rf3eaf36ff6d3defc5a0fa61d7ac618bb?rik=bRDrtSVrrZ8uUw&pid=ImgRaw)
 
