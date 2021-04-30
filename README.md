@@ -1,6 +1,6 @@
-### Hi there, I'm MOHAMMEDD IFTEKAHR 👋
+### Hi there, I'm MOHAMMED IFTEKAHR 👋
 
-## I'm a Student, Sone, Developer, and Problem Solver!!
+## I'm a Student, Developer, and Problem Solver!!
 
 - 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate with other Web Application creators
