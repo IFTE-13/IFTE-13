@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ifte13 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ifte13 | Twitter" width="22px" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ifte13 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ifte13 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -33,6 +33,14 @@
 
 <br />
 <br />
+
+### Github Stats:
+
+<br>
+
+<p align = "left">
+  <img src = "https://github-readme-stats.vercel.app/api?username=aacassandra&show_icons=true&count_private=true&theme=prussian&line_height=32">
+</p>
 
 ---
 
