@@ -5,12 +5,12 @@
 </h1>
 
 ## I'm a Student, Developer, and Problem Solver!!
-
+<p align="center">
 - 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate with other Web Application creators
 - 🥅 2022 Goals: Contribute more to large Web Projects
 - ⚡ Fun fact: I love to draw and play video games
-
+</p>
 
 ### Connect with me:
 
