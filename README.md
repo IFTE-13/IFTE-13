@@ -1,4 +1,8 @@
-### Hi there, I'm MOHAMMED IFTEKAHR 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+MOHAMMED+IFTEKHAR;!&center=true&size=30">
+  </a>
+</h1>
 
 ## I'm a Student, Developer, and Problem Solver!!
 
