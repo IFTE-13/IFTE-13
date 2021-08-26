@@ -39,7 +39,7 @@
 <br>
 
 <p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=aacassandra&show_icons=true&count_private=true&theme=prussian&line_height=32">
+  <img src = "https://github-readme-stats.vercel.app/api?username=IFTE-13&show_icons=true&count_private=true&theme=prussian&line_height=32">
 </p>
 
 ---
