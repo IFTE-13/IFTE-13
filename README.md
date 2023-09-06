@@ -14,9 +14,11 @@
 
 </br> 
 
-<img alt="gif" src="https://raw.githubusercontent.com/IFTE-13/IFTE-13/profile/giphy.gif" align="right" height="350px"/> 
+<img alt="gif" src="https://raw.githubusercontent.com/IFTE-13/IFTE-13/profile/giphy.gif" align="right" height="650px" width="50%"/> 
 
 <h2 align="left">🛠 Tech Stack</h2>
+
+#### ⌨️ Programming Language
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript (Programming Language)](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript&logoColor=blue)
@@ -26,11 +28,15 @@
 ![C# (Programming Language)](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=C%20Sharp&logoColor=purple)
 ![Go (Programming Language)](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go&logoColor=white)
 
+#### 🪟 Frameworks
+
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=Express&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=Nest.js&logoColor=E0234E)
+
+#### 🔢 Database
 
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgresql&logoColor=blue)
@@ -38,26 +44,34 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=green)
 ![TypeORM](https://img.shields.io/badge/-TypeORM-05122A?style=flat&logo=typeorm&logoColor=white)
 
+#### 🔀 Front-End Development
+
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=Tailwind%20CSS&logoColor=38B2AC)
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=orange)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=800080)
-![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm&logoColor=blue)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Code::Blocks](https://img.shields.io/badge/-Code::Blocks-05122A?style=flat&logo=codeblocks&logoColor=white)
+#### ☁️ Cloud Hosting
 
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=yellow)
 ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku&logoColor=purple)
 ![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify&logoColor=cyan)
 ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel&logoColor=white)
 
-</br></br>
+#### 🔨 Tools
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=orange)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=800080)
+![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm&logoColor=blue)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Code::Blocks](https://img.shields.io/badge/-Code::Blocks-05122A?style=flat&logo=codeblocks&logoColor=white)
+
+
+
+</br></br></br>
 
 <h2 align="center">🍃 Social 🍃</h2>
 <div align="center">
