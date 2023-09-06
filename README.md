@@ -14,7 +14,7 @@
 
 </br> 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/IFTE-13/IFTE-13/profile/giphy.gif" align="right"/> 
+<img alt="gif" src="https://raw.githubusercontent.com/IFTE-13/IFTE-13/profile/giphy.gif" align="right" height="300px"/> 
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -58,10 +58,10 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify&logoColor=cyan)
 ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel&logoColor=white)
 
-</br></br></br></br></br>
+</br></br></br></br></br></br></br></br></br>
 
-### 🍃 &nbsp; Social
-<div align="left">
+<h2 align="center">🍃 Social 🍃</h2>
+<div align="center">
   <a href="https://www.linkedin.com/in/ifte-13/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
