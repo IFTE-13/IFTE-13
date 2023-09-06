@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning DSA, Next.Js, Nest.Js
 
-- 👨‍💻 All of my projects are available at [IFTE-13](https://github.com/IFTE-13)
+- 👨‍💻 All of my projects are available at [IFTE-13](https://github.com/IFTE-13?tab=repositories)
 
 - 📫 How to reach me ifte.phoenix@gmail.com
 
