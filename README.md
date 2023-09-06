@@ -14,7 +14,7 @@
 
 </br> 
 
-<img alt="gif" src="https://raw.githubusercontent.com/IFTE-13/IFTE-13/profile/giphy.gif" align="right" height="300px"/> 
+<img alt="gif" src="https://raw.githubusercontent.com/IFTE-13/IFTE-13/profile/giphy.gif" align="right" height="350px"/> 
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -58,7 +58,7 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify&logoColor=cyan)
 ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel&logoColor=white)
 
-</br></br></br></br></br></br></br></br></br>
+</br></br>
 
 <h2 align="center">🍃 Social 🍃</h2>
 <div align="center">
