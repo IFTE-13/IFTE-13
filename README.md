@@ -16,8 +16,7 @@
 
 <img alt="gif" src="https://raw.githubusercontent.com/IFTE-13/IFTE-13/profile/giphy.gif" align="right" height="350px"/> 
 
-
-### 🛠 &nbsp;Tech Stack
+<h2 align="left">🛠 Tech Stack</h2>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript (Programming Language)](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript&logoColor=blue)
