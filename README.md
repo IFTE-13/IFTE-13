@@ -85,5 +85,5 @@
 </div>
 
 </br></br>
-<a href="https://github.com/Candida18"><img alt="IFTE's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=IFTE-13&custom_title=IFTE's%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/IFTE-13"><img alt="IFTE's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=IFTE-13&custom_title=IFTE's%20Contribution%20Graph&theme=react-dark" /></a>
 
