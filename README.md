@@ -58,7 +58,7 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify&logoColor=cyan)
 ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel&logoColor=white)
 
-</br>
+</br></br></br>
 
 ### 🍃 &nbsp; Social
 <div align="left">
