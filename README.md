@@ -81,10 +81,10 @@
   <a href="https://discord.gg/z8VQZRxu8n" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="22486523" target="_blank">
+  <a href="https://stackoverflow.com/users/22486523/mohammed-iftekhar" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
   </a>
-  <a href="@IFTE_13" target="_blank">
+  <a href="https://www.hackerrank.com/IFTE_13" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
 </div>
