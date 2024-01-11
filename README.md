@@ -2,7 +2,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ifte-13&label=Profile%20views&color=0e75b6&style=flat" alt="ifte-13" /> </p>
 
-- 🔭 I’m currently working on [Ghureberai](https://github.com/anaspui/ghureberai-api)
+- 🔭 I’m currently working at [Plac-D](https://www.plac-d.com/)
 
 - 🌱 I’m currently learning DSA, Next.Js, Nest.Js
 
