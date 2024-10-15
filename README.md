@@ -20,3 +20,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="25" height="25"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="25" height="25"/>
 </p>
+
+---
+[![roadmap.sh](https://roadmap.sh/card/wide/65dba5d8aec67f2e2a96fc0d?variant=dark)](https://roadmap.sh)
